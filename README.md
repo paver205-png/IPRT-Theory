@@ -10,7 +10,6 @@ This project formalizes the concept of reality as a dynamic informational system
 
 ## Contents
 - `paper_eng.md`: Full text of the theory in English.
-- `paper_rus.md`: Full text of the theory in Russian.
 
 ## Author
 **Valerii Bychkov**
